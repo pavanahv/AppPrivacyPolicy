@@ -1,0 +1,49 @@
+Privacy Policy for MoneyBook
+Effective Date: February 15, 2026
+
+1. Introduction
+Welcome to MoneyBook. Your financial privacy is our top priority. This Privacy Policy outlines how MoneyBook handles your data, including transaction logs, budget categories, and automated entries. By using MoneyBook, you agree to the terms outlined in this policy.
+
+2. Data Ownership & Privacy-First Approach
+MoneyBook is designed as a local-first application.
+
+Zero Server Uploads: All financial data—including income, spends, loans, and dues—is stored directly on your mobile device.
+
+No Personal Tracking: We do not track your identity, location, or personal contacts. Your financial history remains private and under your total control.
+
+3. Information Processing & Features
+To provide a seamless experience, MoneyBook processes the following information locally:
+
+Transaction Records: Details of buys, sells, loans, and dues are stored in a secure local database.
+
+Recurring Automation: Entries like daily bus charges or monthly EMIs are calculated and updated automatically by the app’s internal logic.
+
+Payment Methods & Categories: User-defined payment types and budget categories are saved locally to personalize your analytics.
+
+Analytics & Graphs: Visual data and powerful filtering reports are generated on-the-fly using your local data.
+
+4. Permissions & Data Export
+To function correctly, MoneyBook may request the following permissions:
+
+Storage Access: Required to perform Local Backups and to save exported reports (Excel/Sheets, HTML, Text, or Graph Images) to your device's memory.
+
+Notifications: Used to provide alerts for budget limits or reminders for recurring transactions, as configured in your settings.
+
+5. Third-Party Sharing
+No Data Sales: MoneyBook does not sell, rent, or share your financial data with third-party advertisers or data brokers.
+
+User-Initiated Sharing: If you choose to "Export" or "Share" a report via email or messaging apps, that specific data is then subject to the privacy policy of the third-party app you select.
+
+6. Data Security & Backups
+User Responsibility: Since your data is stored locally, it is your responsibility to secure your device with a PIN, password, or biometric lock.
+
+Manual Backups: The Local Backup feature creates a file on your device. We recommend users manually move these backups to a secure location (like a private cloud or external drive) to prevent data loss if the device is damaged or lost.
+
+7. Children’s Privacy
+MoneyBook does not knowingly collect or solicit personal information from anyone under the age of 13.
+
+8. Changes to This Policy
+We may update this Privacy Policy to reflect changes in app functionality or legal requirements. Any updates will be posted within the MoneyBook app settings.
+
+9. Contact Information
+For questions regarding this Privacy Policy or the security of MoneyBook, please contact us at: darchorsetech@gmail.com

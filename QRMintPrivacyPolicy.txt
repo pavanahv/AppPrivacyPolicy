@@ -1,0 +1,154 @@
+PRIVACY POLICY — QRMint
+Last updated: April 1, 2026
+
+================================================================================
+
+1. INTRODUCTION
+
+This Privacy Policy describes how QRMint ("the App", "we", "our") handles
+information when you use our Android application. We are committed to protecting
+your privacy and being transparent about our practices.
+
+QRMint is designed with a privacy-first approach. The core functionality of the
+App — QR code generation and scanning — operates entirely on your device without
+sending any data to external servers.
+
+--------------------------------------------------------------------------------
+
+2. INFORMATION WE DO NOT COLLECT
+
+QRMint does NOT collect, store, transmit, or share:
+• The text you type or paste into the App
+• The content of QR codes you generate
+• The content of QR codes you scan
+• Your clipboard contents
+• Photos or images from your device
+• Contacts, messages, or call logs
+• Your location
+• Any personal information
+
+All QR code generation and scanning is performed 100% on your device. No text,
+images, or QR code content ever leaves your phone through our App.
+
+--------------------------------------------------------------------------------
+
+3. INFORMATION THAT MAY BE COLLECTED BY THIRD PARTIES
+
+The App uses the following third-party services, each with their own privacy
+policies:
+
+a) Google AdMob (Advertising)
+   The App displays banner advertisements provided by Google AdMob. Google may
+   collect and use data for personalized advertising as described in Google's
+   Privacy Policy. This may include:
+   • Advertising ID
+   • Device information (model, OS version)
+   • General location (based on IP address)
+   • Ad interaction data
+
+   You can opt out of personalized ads in your Android device settings:
+   Settings → Google → Ads → Opt out of Ads Personalization.
+
+   Google's Privacy Policy: https://policies.google.com/privacy
+
+b) Google Firebase Analytics
+   The App may use Firebase Analytics to collect anonymous usage data such as:
+   • App opens and session duration
+   • Screen views
+   • Device type and operating system version
+   • Country (based on IP address)
+
+   This data is aggregated and anonymous. It does not include any text you type,
+   QR codes you generate, or content you scan.
+
+   Firebase Privacy: https://firebase.google.com/support/privacy
+
+c) Google ML Kit (Barcode Scanning)
+   The App uses Google ML Kit for on-device barcode scanning. ML Kit processes
+   camera frames entirely on your device. No camera images or scanned data are
+   sent to Google servers.
+
+   ML Kit Privacy: https://developers.google.com/ml-kit/terms
+
+--------------------------------------------------------------------------------
+
+4. PERMISSIONS
+
+The App requests the following Android permissions:
+
+• CAMERA — Required for QR code scanning. Camera access is only used when you
+  open the Receive/Scan screen. No photos are taken or stored.
+
+• INTERNET — Required for loading advertisements (Google AdMob) and anonymous
+  analytics (Firebase). Not used for transmitting your content.
+
+• READ_MEDIA_IMAGES (Android 13+) / READ_EXTERNAL_STORAGE (Android 12 and
+  below) — Required to display saved QR code images in the Saved QR library.
+
+• WRITE_EXTERNAL_STORAGE (Android 9 and below) — Required to save QR code
+  images to your device gallery on older Android versions.
+
+--------------------------------------------------------------------------------
+
+5. DATA STORAGE
+
+QR code images you choose to save are stored locally on your device in the
+Pictures/QRMint folder. These files remain entirely on your device and are not
+uploaded or synced anywhere.
+
+The App stores a small amount of preference data locally on your device:
+• Theme setting (Dark / Light / System)
+• Onboarding completion flag
+
+This data is stored using Android SharedPreferences and never leaves your device.
+
+--------------------------------------------------------------------------------
+
+6. DATA SHARING
+
+We do not sell, trade, rent, or share your personal information with any third
+parties. The only data shared with third parties is the anonymous data collected
+by Google AdMob and Firebase Analytics as described in Section 3 above.
+
+--------------------------------------------------------------------------------
+
+7. CHILDREN'S PRIVACY
+
+QRMint does not knowingly collect any personal information from children under
+the age of 13. The App's content is suitable for all ages. The advertisements
+shown are provided by Google AdMob and comply with Google's policies regarding
+ads shown to children.
+
+--------------------------------------------------------------------------------
+
+8. SECURITY
+
+Since QRMint processes all QR code content locally on your device, your data
+never traverses the internet through our App. There are no servers to breach,
+no databases to hack, and no cloud storage to compromise. Your text stays on
+your phone.
+
+--------------------------------------------------------------------------------
+
+9. CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy from time to time. Any changes will be
+reflected in the "Last updated" date at the top of this document. We encourage
+you to review this Privacy Policy periodically.
+
+--------------------------------------------------------------------------------
+
+10. CONTACT US
+
+If you have any questions or concerns about this Privacy Policy or the App's
+practices, please contact us at:
+
+Email: [YOUR_EMAIL_ADDRESS]
+
+--------------------------------------------------------------------------------
+
+11. CONSENT
+
+By using QRMint, you consent to this Privacy Policy.
+
+================================================================================

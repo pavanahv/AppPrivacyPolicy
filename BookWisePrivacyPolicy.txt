@@ -1,0 +1,124 @@
+Here is the rendered version of the BookWise Privacy Policy based on the HTML code provided:
+
+🔒 BookWise Privacy Policy
+Last Updated: April 2, 2026
+
+Effective Date: April 2, 2026
+
+TL;DR: BookWise processes everything on your device. We do not collect, store, or transmit your personal data, book content, notes, or chat history to any server. Period.
+
+1. Introduction
+BookWise ("the App") is developed by Pavan ("we", "us", "our"). This privacy policy explains how we handle your data when you use the App.
+
+We are committed to protecting your privacy. The App is designed from the ground up to keep your data on your device.
+
+2. Data We Do NOT Collect
+We do not collect, access, or transmit:
+
+📚 Your book files or their contents
+
+💬 Your chat questions or AI responses
+
+📝 Your notes or bookmarks
+
+🎤 Your voice recordings or speech-to-text data
+
+📷 Your scanned images or photos
+
+👤 Your name, email, or any personal information
+
+📍 Your location data
+
+3. On-Device AI Processing
+BookWise uses AI models that run entirely on your device using ONNX Runtime. This means:
+
+✅ All question-answering happens locally
+
+✅ All summaries are generated locally
+
+✅ No book content is sent to any server
+
+✅ No internet is required after initial model download (~112 MB one-time)
+
+4. Permissions We Request
+The App requests the following Android permissions, each with a specific purpose:
+
+Storage / Media Access: To import book files (PDF, EPUB, TXT) from your device. Files are copied locally and never uploaded.
+
+Camera: To photograph book pages for the Scan Book feature. Photos are processed on-device and never leave your phone.
+
+Microphone: For voice notes and voice input via Android's built-in Speech-to-Text. Audio is processed on-device only.
+
+Internet: Used solely for: (1) one-time AI model download, (2) anonymous Firebase Analytics, (3) checking for app updates. No personal data is transmitted.
+
+Notifications: To show progress when indexing books in the background.
+
+Vibrate: For haptic feedback on user interactions.
+
+5. Analytics
+We use Firebase Analytics to collect anonymous, aggregated usage statistics (e.g., which features are popular, crash reports). Firebase Analytics:
+
+Does NOT collect your book content or personal data
+
+Uses anonymized identifiers that cannot identify you personally
+
+Helps us improve the app experience
+
+You can opt out of analytics by disabling usage data sharing in your device's Google Settings.
+
+6. Data Storage
+All app data is stored locally on your device using:
+
+Room Database — for books, notes, bookmarks, and chat history
+
+SharedPreferences / DataStore — for app settings (theme, etc.)
+
+Internal Storage — for imported book files and AI models
+
+You can delete all data by clearing the app's data in Android Settings or by uninstalling the App.
+
+7. Third-Party Services
+The App uses the following third-party services:
+
+Firebase Analytics (Google) — anonymous usage analytics. Firebase Privacy
+
+Google Play In-App Updates — to check for app updates
+
+Google Play In-App Review — to prompt for reviews within the app
+
+8. Open-Source Licenses
+BookWise uses the following open-source models and libraries. All AI models run entirely on-device:
+
+ONNX Runtime (Microsoft): On-device AI inference engine.
+
+all-MiniLM-L6-v2 (Microsoft): Sentence embeddings for semantic search.
+
+DistilBERT QA (Hugging Face): Question answering model.
+
+Cross-Encoder MiniLM: Relevance reranking.
+
+ML Kit Text Recognition (Google): On-device OCR for scanning.
+
+PDFBox for Android (Apache): PDF parsing and generation.
+
+Lottie (Airbnb): Animations.
+
+Glide (Bump Technologies): Image loading.
+
+9. Children's Privacy
+The App is suitable for all ages. We do not knowingly collect data from children or any users. Since all processing is on-device, no personal data from any user is transmitted.
+
+10. Data Security
+Since your data never leaves your device, security is inherently maintained by Android's app sandbox. The App uses internal storage that is inaccessible to other apps.
+
+11. Changes to This Policy
+We may update this privacy policy from time to time. Any changes will be reflected in the App with an updated "Last Updated" date.
+
+12. Contact Us
+If you have questions about this privacy policy:
+
+📧 Email: bookwise.app.support@gmail.com
+
+🌐 Website: https://bookwise.app
+
+📌 Summary: Your data is yours. It stays on your device. We don't see it, collect it, or share it. BookWise is built to be private by design.

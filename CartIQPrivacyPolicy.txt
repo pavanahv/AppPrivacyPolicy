@@ -1,0 +1,120 @@
+PRIVACY POLICY — CartIQ
+Last updated: January 2025
+
+1. INTRODUCTION
+CartIQ ("we", "us", "our") is a smart shopping list and grocery management
+application for Android. This Privacy Policy explains how we collect, use,
+and protect your information when you use DataIQ Technologies' CartIQ mobile
+application (the "App").
+
+By using CartIQ you agree to the practices described in this policy.
+
+2. INFORMATION WE COLLECT
+
+2.1 Information You Provide
+• Account data — name, email address, and profile photo when you sign in
+  with Google.
+• Shopping data — shopping lists, items, quantities, prices, categories, and
+  notes you create within the App.
+• Chat messages — text you enter in the AI chatbot feature (processed
+  entirely on-device).
+
+2.2 Information Collected Automatically
+• Device information — device model, OS version, app version, and unique
+  device identifiers for crash reporting.
+• Usage analytics — screens visited, features used, and interaction patterns
+  collected through Firebase Analytics. These events do not contain personal
+  shopping data.
+• Crash reports — stack traces and device state at the time of a crash,
+  collected through Firebase Crashlytics.
+
+2.3 Information We Do NOT Collect
+• We do NOT access your contacts, call logs, SMS, or location.
+• We do NOT record audio, video, or use the camera beyond barcode scanning.
+• Barcode scans are processed on-device and are not transmitted to servers.
+• AI/ML models run entirely on your device. No shopping data is sent to
+  external AI services.
+
+3. HOW WE USE YOUR INFORMATION
+• To provide and improve the App's features.
+• To sync your shopping data across devices via Google Drive backup
+  (only when you explicitly enable backup).
+• To send restock reminders and notification alerts you configure.
+• To display relevant advertisements through Google AdMob (non-personalized
+  ads for users who do not consent to personalized ads).
+• To analyze aggregate usage patterns and fix bugs.
+
+4. DATA STORAGE AND SECURITY
+• Shopping data is stored locally on your device using an encrypted Room
+  database.
+• Cloud backups (Google Drive) are encrypted with AES-256 before upload.
+  Only you can decrypt your backup files.
+• Authentication tokens are stored securely using Android Keystore.
+• We use industry-standard security measures to protect data in transit
+  (TLS 1.2+) and at rest.
+
+5. THIRD-PARTY SERVICES
+The App integrates the following third-party services, each governed by their
+own privacy policies:
+• Firebase (Google) — Analytics, Authentication, Cloud Firestore
+  https://firebase.google.com/support/privacy
+• Google AdMob — Advertising
+  https://policies.google.com/privacy
+• Google Drive API — Cloud backup
+  https://developers.google.com/drive/api/guides/about-auth
+• Google Play In-App Review and In-App Update APIs
+
+6. AI AND ML MODELS
+• CartIQ offers optional on-device ML models (~250 KB) to enhance intent
+  recognition, item categorization, and fuzzy name matching.
+• These models are downloaded from our servers and run entirely on your
+  device. No user data is sent to our servers for AI processing.
+• You can enable or disable ML models at any time from Settings → AI Models.
+• When ML models are disabled, the App uses keyword-based fallback logic.
+
+7. ADVERTISING
+• CartIQ displays ads via Google AdMob.
+• Free-tier users see banner and interstitial ads. Pro users enjoy an
+  ad-free experience.
+• You may opt out of personalized advertising through your device's
+  "Opt out of Ads Personalization" setting.
+
+8. DATA SHARING
+• We do NOT sell, rent, or trade your personal information.
+• We share data only with the third-party service providers listed above,
+  solely for the purposes described in this policy.
+• We may disclose data if required by law or to protect our legal rights.
+
+9. DATA RETENTION AND DELETION
+• Your local data remains on your device until you uninstall the App or
+  clear its data.
+• Cloud backups on Google Drive can be deleted at any time from your
+  Google Drive account.
+• You can delete your account data by signing out and clearing app data
+  from Android Settings.
+• To request complete data deletion, contact us at the email below.
+
+10. CHILDREN'S PRIVACY
+CartIQ is not directed to children under 13. We do not knowingly collect
+personal information from children under 13. If you believe we have
+collected information from a child, please contact us for immediate
+deletion.
+
+11. YOUR RIGHTS
+Depending on your jurisdiction you may have the right to:
+• Access, correct, or delete your personal data.
+• Object to or restrict certain processing.
+• Data portability — export your shopping data via Settings → Export Data.
+• Withdraw consent for analytics or personalized ads at any time.
+
+12. CHANGES TO THIS POLICY
+We may update this Privacy Policy from time to time. The "Last updated" date
+at the top indicates the latest revision. Continued use of the App after
+changes constitutes acceptance of the updated policy.
+
+13. CONTACT US
+If you have questions or concerns about this Privacy Policy, please
+contact us at:
+
+Email: darchorsetech@gmail.com
+Developer: Pavan Reddy
